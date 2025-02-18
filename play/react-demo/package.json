@@ -11,7 +11,7 @@
     "@klarr-agency/circum-icons-react": "^2.0.1",
     "chroma-js": "^2.4.2",
     "dagre": "^0.8.5",
-    "graphology": "^0.25.4",
+    "graphology": "^0.26.0",
     "graphology-layout": "^0.6.1",
     "graphology-layout-forceatlas2": "^0.10.1",
     "react-tooltip": "^5.26.3",
